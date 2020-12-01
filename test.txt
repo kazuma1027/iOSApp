@@ -1,2 +1,8 @@
 テスト
+<<<<<<< HEAD
 Day
+=======
+
+Takuma
+Test
+>>>>>>> b94a5f3dda246d734a0385cba80358aeba23e5f3
