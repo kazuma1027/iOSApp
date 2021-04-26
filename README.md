@@ -1,6 +1,6 @@
-# iOSApp
+# openlab
  
-iOSアプリ開発
+オープンラボ特設サイトを練習で作ってみます
  
 # DEMO
  
@@ -8,12 +8,10 @@ iOSアプリ開発
  
 # Features
  
-動体視力ゲームのような、ランダム出現する対象物を潰してくゲーム
+
  
 # Requirement
  
-* Xcode 12.2
-* Swift 
  
 # Installation
 
@@ -28,7 +26,8 @@ iOSアプリ開発
 
  
 # Author
-
+KTakeuchi
+TTsukasaki
 
  
 # License
