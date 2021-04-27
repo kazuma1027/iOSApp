@@ -2,33 +2,33 @@
  
 オープンラボ特設サイトを練習で作ってみます
  
-# DEMO
+## DEMO
  
 
  
-# Features
+## Features
  
 
  
-# Requirement
+## Requirement
  
  
-# Installation
-
-
- 
-# Usage
+## Installation
 
 
  
-# Note
+## Usage
 
 
  
-# Author
-KTakeuchi
-TTsukasaki
+## Note
+
 
  
-# License
+## Author
+[KTakeuchi](https://github.com/Howellm)  
+[TTsukasaki](https://github.com/tayoon)
+
+ 
+## License
 
