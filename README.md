@@ -26,7 +26,7 @@
 
  
 ## Author
-[KTakeuchi](https://github.com/Howellm)  
+[KTakeuchi](https://github.com/uzumal)  
 [TTsukasaki](https://github.com/tayoon)
 
  
